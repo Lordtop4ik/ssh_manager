@@ -8,7 +8,7 @@
 ## Установка одной командой
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Lordtop4ik/ssh_manager/refs/heads/main/ssh_manager.py | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Lordtop4ik/ssh_manager/refs/heads/main/install.sh | sudo bash
 ```
 
 Или вручную:
