@@ -11,14 +11,6 @@
 curl -fsSL https://raw.githubusercontent.com/Lordtop4ik/ssh_manager/refs/heads/main/install.sh | sudo bash
 ```
 
-Или вручную:
-
-```bash
-git clone https://github.com/YOUR/REPO.git
-cd REPO
-sudo bash install.sh
-```
-
 ---
 
 ## Запуск
